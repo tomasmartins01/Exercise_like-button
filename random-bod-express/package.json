@@ -1,0 +1,14 @@
+{
+  "name": "random-bool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cainã Brazil",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
